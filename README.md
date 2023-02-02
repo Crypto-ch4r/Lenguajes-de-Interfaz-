@@ -1,2 +1,2 @@
 # Lenguajes-de-Interfaz-
-Un repositorio en el cual se subiran notas de clase y practicas relacionadas con la materia Lenguajes de Interfaz.
+Este es un simple y sencillo repositorio para subir practicas y apuntes de clase de la materia "Lenguajes de Interfaz". :grin:
