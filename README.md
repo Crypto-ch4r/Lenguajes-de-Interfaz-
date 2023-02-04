@@ -11,4 +11,4 @@ Dentro de este repositorio podrás encontrar:
 - 	:face_in_clouds: Practicas de clase hechas en ensamblador.
 - 	:wink: Evidencia de mi salud mental decayendo lentamente gracias a ensamblador. (just joking)
 
-Diviertete checando mi repositorio, espero encuentres algo que te sea de utilidad. :nerd_face:	
+Diviertete checando mi repositorio, espero encuentres algo que te sea de utilidad. Para apuntes relacionados con la materia checa la sección "Wiki" de este repositorio, para practicas quedate aqui mismo en la sección "Code". :nerd_face:	
